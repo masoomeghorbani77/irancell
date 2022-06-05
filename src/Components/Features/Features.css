@@ -1,0 +1,23 @@
+.features{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.featuresItem{
+    flex: 1;
+    margin: 0px 20px;
+    height: 150px;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 20px -10px rgba(0, 0,0 , 0.75);
+   
+}
+img{
+    width: 100%;
+    height: 150px;
+    background-attachment: fixed;
+    border-radius: 20px;
+}
+
